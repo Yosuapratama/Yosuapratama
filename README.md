@@ -3,6 +3,7 @@
 **- Skills: ✨**
   - Html, CSS, JS, PHP
   - C++, C, Python, Basic Programming
+
 **- Framework:✨**
   - Laravel 10 & 11
   - NextJS
