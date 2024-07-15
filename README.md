@@ -3,7 +3,9 @@
 
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=Yosuapratama&theme=dark&border_radius=5&card_width=900)]
+![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=Yosuapratama&theme=dark&border_radius=5&card_width=900)
+
+
 
 > [!NOTE]
 > This repo contains about my skills, my experience, my project as a fullstack Development
