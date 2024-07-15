@@ -2,9 +2,6 @@
 
 > [!NOTE]
 > This repo contains about my skills, my experience, my project as a fullstack Development
-
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
-
 |   SKILLS    |  DESCRIPTION   |
 | :-------:   | :----------:   |
 
