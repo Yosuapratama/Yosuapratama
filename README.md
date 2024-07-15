@@ -1,4 +1,6 @@
 **Hello My Name Is Yosua Antoni Pratama !🙌📣**
+> [!NOTE]
+> This repo contains about my skills, my experience, my project as a fullstack Development
 
 **- Skills: ✨**
   - Html, CSS, JS, PHP
