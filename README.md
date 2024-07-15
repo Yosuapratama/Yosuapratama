@@ -1,4 +1,7 @@
-> # **Yosua Antoni Pratama Github Repo !🙌📣**
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=arial+black&size=30&duration=2500&pause=1000&background=000000&center=true&vCenter=true&random=false&width=500&height=200&lines=Hi+There;I'm+Yosua+Antoni+Pratama;Iam+a+Fullstack+Webdev" alt="Typing SVG" /></a>
+
+</div>
 
 > [!NOTE]
 > This repo contains about my skills, my experience, my project as a fullstack Development
