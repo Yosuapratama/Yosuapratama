@@ -1,4 +1,4 @@
-> # ** Yosua Antoni Pratama Github Repo !🙌📣**
+> # **Yosua Antoni Pratama Github Repo !🙌📣**
 
 > [!NOTE]
 > This repo contains about my skills, my experience, my project as a fullstack Development
