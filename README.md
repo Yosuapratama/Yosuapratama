@@ -2,10 +2,6 @@
 
 > [!NOTE]
 > This repo contains about my skills, my experience, my project as a fullstack Development
-|   SKILLS    |  DESCRIPTION   |
-| :-------:   | :----------:   |
-
-
 
 **- Skills: ✨**
   - Html, CSS, JS, PHP
